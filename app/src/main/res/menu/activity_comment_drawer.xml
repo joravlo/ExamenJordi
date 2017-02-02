@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/com_inicio"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/com_fotos"
+            android:title="Fotos" />
+        <item
+            android:id="@+id/com_peliculas"
+            android:title="Peliculas" />
+        <item
+            android:id="@+id/com_notificaciones"
+            android:title="Notificaciones" />
+        <item
+            android:id="@+id/com_configuracion"
+            android:title="Configuracion" />
+    </group>
+</menu>
